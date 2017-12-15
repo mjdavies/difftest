@@ -1,2 +1,4 @@
 # difftest
 mullarky
+
+password=secretstuff
